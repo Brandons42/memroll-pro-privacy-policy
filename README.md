@@ -14,7 +14,7 @@ ___
 I, Brandon Suen, created this app with your privacy as one of my top priorities. Because I too use many apps, I understand the confusion and frustration that comes when apps request unnecessary information. Please read through this policy so that you are aware of what the usage of this app entails. I designed this app to involve as little user data collection as possible; however, if you disagree with this policy, please cease use of this app. By using this app, you agree to this policy.
 
 ## Information used
-The only information this app records is stored locally on your phone, not on any databases that this app can access and share information from. This information includes whether or not you have accepted the terms and conditions and privacy policy. That's it!
+The only information this app records is stored locally on your phone, not on any databases that this app can access and share information from. This information includes the cities you've explored and guessed the location of and whether or not you have accepted the terms and conditions and privacy policy. That's it!
 
 ## Deleting your data
 Because your information isn't scored on any databases for this app, uninstalling the app will remove this app's access to your data entirely.
